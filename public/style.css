@@ -1,0 +1,27 @@
+.sidebar {
+    background-color: #f1f1f1;
+    height: 100vh;
+    padding: 20px;
+}
+
+.sidebar h2 {
+    color: #333;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.sidebar ul {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+
+.sidebar ul li {
+    margin-bottom: 10px;
+}
+
+.main {
+    height: 100vh;
+    background-color: #fff;
+    padding: 20px;
+}
